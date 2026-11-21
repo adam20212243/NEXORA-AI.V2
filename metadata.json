@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA AI",
+  "description": "مساعد ذكاء اصطناعي متكامل بعقل رئيسي واحد وقاعدة معرفة منظمة وبحث خارجي ودعم الصوت والتحكم في التطبيقات.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
